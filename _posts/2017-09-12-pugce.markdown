@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PUG-CE"
+categories: Python
+link-telegram: https://telegram.me/pugce
+link-whatsapp: 
+---
+Python User Group Ceará
+Colaboração: Italo Maia (@italomaia)
